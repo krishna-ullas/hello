@@ -1,5 +1,5 @@
 {
-        "airflow_dags": {
+        "https://github.com/krishna-ullas/airflow_dags": {
             "path": "/appz/home/airflow/dags/airflow_dags",
             "branch": "main",
             "email": "kullas@ecloudcontrol.com",
