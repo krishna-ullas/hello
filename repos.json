@@ -13,7 +13,7 @@
         },
         "https://github.com/krishna-ullas/template": {
             "path": "/appz/home/airflow/dags/template",
-            "branch": "main",
+            "branch": "master",
             "email": ["kullas@ecloudcontrol.com"],
             "group": "test"
         }
