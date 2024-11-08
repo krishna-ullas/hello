@@ -16,6 +16,12 @@
             "branch": "master",
             "email": ["kullas@ecloudcontrol.com"],
             "group": "test"
+        },
+        "https://github.com/krishna-ullas/snowflake": {
+            "path": "/appz/home/airflow/dags/snowflake",
+            "branch": "master",
+            "email": ["kullas@ecloudcontrol.com"],
+            "group": "test"
         }
         
         
