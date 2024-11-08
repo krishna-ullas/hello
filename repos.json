@@ -10,6 +10,14 @@
             "branch": "main",
             "email": ["kullas@ecloudcontrol.com"],
             "group": "test"
+        },
+        "https://github.com/krishna-ullas/template": {
+            "path": "/appz/home/airflow/dags",
+            "branch": "main",
+            "email": ["kullas@ecloudcontrol.com"],
+            "group": "test"
         }
+        
+        
 }
 
