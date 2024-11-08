@@ -5,12 +5,6 @@
             "email": "kullas@ecloudcontrol.com",
             "group": "test"
         },
-        "https://github.com/krishna-ullas/jaffle_shop": {
-            "path": "/appz/home/airflow/dags/dbt/jaffle_shop",
-            "branch": "main",
-            "email": ["kullas@ecloudcontrol.com"],
-            "group": "test"
-        },
         "https://github.com/krishna-ullas/template": {
             "path": "/appz/home/airflow/dags/template",
             "branch": "master",
