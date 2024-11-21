@@ -10,18 +10,6 @@
             "branch": "master",
             "email": ["kullas@ecloudcontrol.com"],
             "group": "test"
-        },
-        "https://github.com/GayathriJujjuru7/jaffle_shop": {
-            "path": "/appz/home/airflow/dags/dbt/jaffle_shop",
-            "branch": "main",
-            "email": ["gjujjuru@ecloudcontrol.com"],
-            "group": "test"
-        },
-        "https://github.com/GayathriJujjuru7/airflow_dags": {
-            "path": "/appz/home/airflow/dags/airflow_dags",
-            "branch": "main",
-            "email": ["gjujjuru@ecloudcontrol.com"],
-            "group": "data-engineering"
         }
         
         
