@@ -1,29 +1,10 @@
 {
-        "https://github.com/krishna-ullas/template": {
-            "path": "/appz/home/airflow/dags/template",
-            "branch": "master",
-            "email": ["kullas@ecloudcontrol.com"],
-            "group": "test"
-        },
-        "https://github.com/krishna-ullas/snowflake": {
-            "path": "/appz/home/airflow/dags/snowflake",
-            "branch": "master",
-            "email": ["kullas@ecloudcontrol.com"],
-            "group": "test"
-        },
-        "https://github.com/GayathriJujjuru7/jaffle_shop": {
+        "https://github.com/krishna-ullas/jaffle_shop": {
             "path": "/appz/home/airflow/dags/dbt/jaffle_shop",
             "branch": "main",
-            "email": ["gjujjuru@ecloudcontrol.com"],
-            "group": "data-eng"
-        },
-        "https://github.com/GayathriJujjuru7/airflow_dags": {
-            "path": "/appz/home/airflow/dags/airflow_dags",
-            "branch": "main",
-            "email": ["gjujjuru@ecloudcontrol.com"],
-            "group": "data-eng"
+            "email": ["kullas@ecloudcontrol.com"],
+            "group": "test"
         }
-
-        
+              
         
 }
